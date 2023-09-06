@@ -36,7 +36,7 @@ To use the bank churn prediction model, follow these steps:
 
 Clone this repository to your local machine:
 bash
-git clone https://github.com/imshubhamkore/bank-churn-prediction.git
+git clone https://github.com/imshubhamkore/Treue-technology/blob/db1756a71d818bf362acc428a77d1e104c7ae0de/Bank_Customer_Churn.ipynb
 cd bank-churn-prediction
 
 Install the required dependencies as mentioned in the "Dependencies" section.
