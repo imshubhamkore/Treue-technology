@@ -3,6 +3,9 @@
 ## Bank Churn Prediction Model
 This repository contains a machine learning model for predicting bank customer churn. Customer churn refers to the phenomenon where customers stop doing business with a company—in this case, leaving their bank. The model aims to identify potential churners so that the bank can take proactive measures to retain them.
 
+![Customer-Churn](https://github.com/imshubhamkore/Treue-technology-Bank-Churn/assets/128685230/95c73d8a-25ad-4355-94cd-50829d9c1350)
+
+
 Table of Contents
 Introduction
 Dataset
