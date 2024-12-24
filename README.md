@@ -52,6 +52,17 @@ The model training process is documented in the Jupyter Notebook Bank_Churn_Pred
 ### Model Evaluation
 We evaluate the model's performance using metrics such as accuracy, precision, recall, and F1-score. The evaluation results are discussed in the Google Colab.
 
+# Machine Learning Models Performance
+
+This repository contains the performance metrics of various machine learning models evaluated on a specific dataset. The table below summarizes the precision, recall, F1-score, and accuracy for each model.
+
+| **Model**               | **Precision** | **Recall** | **F1-Score** | **Accuracy** |
+|-------------------------|---------------|------------|--------------|--------------|
+| Logistic Regression     | 0.57          | 0.54       | 0.52         | 0.59         |
+| Gradient Boosting       | 0.70          | 0.69       | 0.69         | 0.71         |
+| Random Forest           | 0.70          | 0.69       | 0.69         | 0.70         |
+
+
 ### Results
 The results of the churn prediction model can be summarized here. You can also include visualizations and insights gained from the analysis.
 
